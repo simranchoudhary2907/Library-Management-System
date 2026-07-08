@@ -9,7 +9,7 @@ import os
 
 PROJECT_FILES = [
     'auth.py', 'books.py', 'members.py', 'borrow.py', 'file_handler.py', 'utils.py', 'main.py',
-    'books.json', 'members.json', 'users.json', 'borrow_records.json', 'README.md'
+    'README.md'
 ]
 
 inputs = [
