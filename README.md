@@ -130,6 +130,18 @@ Data Science Analytics
 ```text
 library-management-system-python/
 │
+├── frontend/
+│   └── README.md
+├── backend/
+│   ├── __init__.py
+│   ├── auth_utils.py
+│   ├── crud.py
+│   ├── database.py
+│   ├── main.py
+│   ├── models.py
+│   ├── schemas.py
+│   └── README.md
+│
 ├── auth.py
 ├── books.py
 ├── members.py
@@ -143,6 +155,7 @@ library-management-system-python/
 ├── members.json
 ├── users.json
 ├── borrow_records.json
+├── library.db
 │
 ├── README.md
 └── requirements.txt

@@ -1,1 +1,9 @@
-No external packages required.
+fastapi
+uvicorn[standard]
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+email-validator
+python-multipart
+email-validator
+python-multipart
