@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+mysql-connector-python
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+pandas
+numpy
+scikit-learn

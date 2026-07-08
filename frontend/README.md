@@ -1,3 +1,18 @@
-Minimal frontend stub.
+Vite + React + Tailwind frontend scaffold.
 
-Open `frontend/index.html` in a browser. This stub expects the backend to serve `/api/books` or configure a proxy (when using a dev server).
+Quick start:
+
+1. Install dependencies
+
+```bash
+cd frontend
+npm install
+```
+
+2. Start dev server
+
+```bash
+npm run dev
+```
+
+The Vite app expects the backend API at `/api/*` (dev server proxy can be configured if backend runs on a different port).
