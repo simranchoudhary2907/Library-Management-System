@@ -4,7 +4,7 @@
 from utils import print_title, success, error, get_integer, not_empty, confirm
 from file_handler import load_data, save_data
 
-BOOKS_FILE = "books.json"
+BOOKS_FILE = "data/books.json"
 
 
 # ------------------------------------------

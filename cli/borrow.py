@@ -5,9 +5,9 @@ from utils import print_title, success, error
 from datetime import datetime, timedelta
 from file_handler import load_data, save_data
 
-BOOKS_FILE = "books.json"
-MEMBERS_FILE = "members.json"
-BORROW_FILE = "borrow_records.json"
+BOOKS_FILE = "data/books.json"
+MEMBERS_FILE = "data/members.json"
+BORROW_FILE = "data/borrow_records.json"
 BORROW_LIMIT = 3
 
 

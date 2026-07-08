@@ -77,7 +77,7 @@ def main():
                         # Basic check: ensure member exists in members.json
                         from file_handler import load_data
 
-                        members = load_data("members.json")
+                        members = load_data("data/members.json")
 
                         found = False
 

@@ -5,7 +5,7 @@ from utils import success, error, not_empty, is_valid_email, is_valid_phone, con
 import hashlib
 from file_handler import load_data, save_data
 
-USERS_FILE = "users.json"
+USERS_FILE = "data/users.json"
 
 
 # ------------------------------------------
@@ -53,7 +53,7 @@ def register():
     # If registering a Member, create a member record and link it
     if role == "Member":
 
-        MEMBERS_FILE = "members.json"
+        MEMBERS_FILE = "data/members.json"
 
         members = load_data(MEMBERS_FILE)
 

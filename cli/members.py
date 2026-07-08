@@ -4,7 +4,7 @@
 from utils import print_title, success, error, not_empty, is_valid_email, is_valid_phone, confirm
 from file_handler import load_data, save_data
 
-MEMBERS_FILE = "members.json"
+MEMBERS_FILE = "data/members.json"
 
 
 # ------------------------------------------
