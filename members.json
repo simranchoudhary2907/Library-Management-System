@@ -4,5 +4,11 @@
         "name": "Rohit",
         "email": "rohit@gmail.com",
         "phone": "6207601323"
+    },
+    {
+        "member_id": "M001",
+        "name": "Shivam",
+        "email": "Shivam123@gmail.com",
+        "phone": "123456789"
     }
 ]

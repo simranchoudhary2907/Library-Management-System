@@ -8,5 +8,15 @@
         "username": "admin",
         "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
         "role": "Admin"
+    },
+    {
+        "username": "Simran",
+        "password": "07e208c7f1f236a35db5fd2178817bde8822a37651c1a6ca63a917a1405bc887",
+        "role": "Member"
+    },
+    {
+        "username": "Shivam",
+        "password": "a37bb38024354ba9e318d0091a376212f2e814841605813fe683c4336edd69b9",
+        "role": "Admin"
     }
 ]

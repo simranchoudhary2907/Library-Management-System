@@ -142,14 +142,15 @@ library-management-system-python/
 │   ├── schemas.py
 │   └── README.md
 │
-├── auth.py
-├── books.py
-├── members.py
-├── borrow.py
-├── users.py
-├── file_handler.py
-├── utils.py
-├── main.py
+├── cli/
+│   ├── auth.py
+│   ├── books.py
+│   ├── members.py
+│   ├── borrow.py
+│   ├── users.py
+│   ├── file_handler.py
+│   ├── utils.py
+│   └── main.py
 │
 ├── books.json
 ├── members.json
